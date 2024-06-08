@@ -1,56 +1,88 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
 package hotel_booking;
-
-import java.util.ArrayList;
-import java.util.List;
-
+/**
+ *
+ * @author shaikasif
+ */
 public class Hotel {
+    private int hotelId; //primary key.
+    private String name;
+    private String address;
+    private String description;
+    private double price;
+    private int locationId;//locations will be get based on the location foregin key
+    private String imageUrl;
 
-    private final String name;
-    private final String address;
-    private final String description;
-    private final Location location;
-    private final List<Room> rooms;
-    float price;
-
-    public Hotel(String name, String address, Location location, String description, float price) {
+    public Hotel(int hotelId, String name, String address, String description, double price, String imageUrl, int locationId) {
+        this.hotelId = hotelId;
         this.name = name;
         this.address = address;
         this.description = description;
-        this.location = location;
         this.price = price;
-        this.rooms = new ArrayList<>();
+        this.imageUrl = imageUrl;
+        this.locationId = locationId;
     }
 
-    public void addRoom(Room room) {
-        rooms.add(room);
+    // Add getters and setters as needed
+
+    public int getHotelId() {
+        return hotelId;
+    }
+
+    public void setHotelId(int hotelId) {
+        this.hotelId = hotelId;
     }
 
     public String getName() {
         return name;
     }
 
+    public void setName(String name) {
+        this.name = name;
+    }
+
     public String getAddress() {
         return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
     }
 
     public String getDescription() {
         return description;
     }
 
-    public float getPrice() {
+    public void setDescription(String description) {
+        this.description = description;
+    }
+
+    public double getPrice() {
         return price;
     }
 
-    public List<Room> getRooms() {
-        return rooms;
-    }
-
-    public Location getLocation() {
-        return location;
-    }
-
-    public void setPrice(float price) {
+    public void setPrice(double price) {
         this.price = price;
     }
 
+    public int getLocationId() {
+        return locationId;
+    }
+
+    public void setLocationId(int locationId) {
+        this.locationId = locationId;
+    }
+
+    public String getImageUrl() {
+        return imageUrl;
+    }
+
+    public void setImageUrl(String imageUrl) {
+        this.imageUrl = imageUrl;
+    }
 }
+
+//modifiled the hotel class

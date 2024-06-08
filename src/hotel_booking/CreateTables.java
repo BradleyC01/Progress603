@@ -185,4 +185,3 @@ public class CreateTables {
 }
 
 
-// created the main method and created a sample data , for tables we need.

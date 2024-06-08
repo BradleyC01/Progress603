@@ -56,6 +56,3 @@ public class DataManager {
         }
     }
 }
-
-//added a embeded database for the hotel booking system and 
-//Singleton class that manages the database connection for the Hotel Booking System.
