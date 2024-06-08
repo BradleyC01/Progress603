@@ -36,34 +36,8 @@ public class Booking implements BookingManager {
         return bookingId;
     }
 
-    public void setBookingStatus(String newStatus) {  
-        this.bookingStatus = newStatus;
-        this.room.setBooked("Confirmed".equals(newStatus));
-    }
 
-    @Override
-    public String toString() {
-
-        return "________________________________________________________________________________________________\n"
-                + "Booking Reference ID: " + bookingId
-                + "\nBooking Details:" + "\n"
-                + "Guest Name:            " + getFullName() + "\n"
-                + "Contact Details:       " + getContactDetails() + "\n"
-                + "Room Number:           " + room.getNumber() + "\n"
-                + "Hotel Name:            " + (room.getHotel() != null ? room.getHotel().getName() : "N/A") + "\n"
-                + "Address:               " + (room.getHotel() != null ? room.getHotel().getAddress() : "N/A") + "\n"
-                + "Room Description:      " + room.getDescription() + "\n"
-                + "Booked:                " + (room.isBooked() ? "Yes" : "No") + "\n"
-                + "Services Added:        " + getServiceDetails(services) + "\n"
-                + "Check-in Date:         " + checkInDate + "\n"
-                + "Check-out Date:        " + checkOutDate + "\n"
-                + "Adults:                " + adults + "\n"
-                + "Children:              " + children + "\n"
-                + "Total Price with Tax:  $" + String.format("%.2f", totalPriceWithTax) + "\n"
-                + "Booked Status:         " + bookingStatus;
-
-    }
-
+   
     @Override
     public String getContactDetails() {
         return "Mobile Number : " + guest.getTelephone() + " | " + "Mail Id : " + guest.getEmail(); 
