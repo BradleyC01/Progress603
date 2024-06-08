@@ -1,61 +1,62 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
 package hotel_booking;
-
+/**
+ *
+ * @author shaikasif
+ */
 import java.util.ArrayList;
 import java.util.List;
 
 public class Room {
-    private final int number;
-    private final double price;
-    private boolean isBooked;
-    private final String description;
-    private final List<Service> services;
-    private Hotel hotel; 
-    
+    private String name;
+    private double price;
+    private String description;
+    private String imageUrl;
+    private List<Service> services;
 
-    public Room(int number, double price, String description) {
-        this.number = number;
+    public Room(String name, double price, String description, String imageUrl) {
+        this.name = name;
         this.price = price;
-        this.isBooked = false;
         this.description = description;
+        this.imageUrl = imageUrl;
         this.services = new ArrayList<>();
-        
-    }
-    
-    
-
-    // Method to add a service to the room
-    public void addService(Service service) {
-        services.add(service);
     }
 
-    // Getters and setters
-    public int getNumber() {
-        return number;
+    // Add getters and setters
+    public String getImageUrl() {
+        return imageUrl;
     }
-    
+
+    public void setImageUrl(String imageUrl) {
+        this.imageUrl = imageUrl;
+    }
+
+    public String getName() {
+        return name;
+    }
+
     public double getPrice() {
-        return price; }
-    
-    public boolean isBooked() {
-        return isBooked; 
+        return price;
     }
-    public void setBooked(boolean booked) {
-        isBooked = booked; 
-    }
-    
+
     public String getDescription() {
         return description;
     }
+
     public List<Service> getServices() {
         return services;
     }
+
+    public void addService(Service service) {
+        services.add(service);
+    }
     
-    public Hotel getHotel() {
-        return hotel; 
+    public void setPrice(double price) {
+        this.price = price;
     }
-    public void setHotel(Hotel hotel) {
-        this.hotel = hotel;
-    }
-  
-   
 }
+
+//modifled the room class

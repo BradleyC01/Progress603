@@ -13,11 +13,17 @@ import java.util.List;
  */
 public class Location {
 
+    private int locationId; //for primary key
     private String name;
     private final List<Hotel> hotels = new ArrayList<>();
 
-    public Location(String name) {
+    public Location(int locationId, String name) {
+        this.locationId = locationId;
         this.name = name;
+    }
+
+    public int getLocationId() {
+        return locationId;
     }
 
     public String getName() {
@@ -35,4 +41,10 @@ public class Location {
     public List<Hotel> getHotels() {
         return hotels;
     }
+
+    @Override
+    public String toString() {
+        return name;  //for further when we create the booking frame we need this to display
+    }
 }
+//modifiled location
