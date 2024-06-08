@@ -1,0 +1,238 @@
+________________________________________________________________________________________________
+Booking Reference ID: 7863374
+Booking Details:
+Guest Name:            shaik asif  ahmed
+Contact Details:       Mobile Number : 0279003311 | Mail Id : shaik@3311
+Room Number:           228
+Hotel Name:            Rydges Wellington
+Address:               75 Featherston Street, Wellington Central, Wellington 6011
+Room Description:      Luxury Suite
+Booked:                Yes
+Services Added:        Breakfast, Fitness Center, VIP Lounge Access
+Check-in Date:         05/05/2024
+Check-out Date:        10/05/2024
+Adults:                4
+Children:              6
+Total Price with Tax:  $2228.70
+Booked Status:         Confirmed
+________________________________________________________________________________________________
+Booking Reference ID: 7863376
+Booking Details:
+Guest Name:            Shaik Asif Ahmed
+Contact Details:       Mobile Number : 0279003311 | Mail Id : shaik@3311
+Room Number:           603
+Hotel Name:            Rendezvous Hotel Christchurch
+Address:               166 Gloucester Street, Christchurch Central City, Christchurch 8011
+Room Description:      Executive Suite
+Booked:                Yes
+Services Added:        Breakfast, Exclusive Lounge Access
+Check-in Date:         05/05/2024
+Check-out Date:        10/05/2024
+Adults:                4
+Children:              6
+Total Price with Tax:  $2381.70
+Booked Status:         Confirmed
+________________________________________________________________________________________________
+Booking Reference ID: 7863377
+Booking Details:
+Guest Name:            shaik asif
+Contact Details:       Mobile Number : 0279003311 | Mail Id : shaik@3311
+Room Number:           224
+Hotel Name:            James Cook Hotel Grand Chancellor
+Address:               147 The Terrace, Wellington Central, Wellington 6011
+Room Description:      Superior Room
+Booked:                Yes
+Services Added:        Dinner Option, Extra Bed
+Check-in Date:         01/05/2024
+Check-out Date:        10/05/2024
+Adults:                4
+Children:              2
+Total Price with Tax:  $3589.38
+Booked Status:         Confirmed
+________________________________________________________________________________________________
+Booking Reference ID: 7863378
+Booking Details:
+Guest Name:            shaik asif
+Contact Details:       Mobile Number : 0278994738 | Mail Id : shaik@3311
+Room Number:           404
+Hotel Name:            M Social Auckland
+Address:               Iconic Quat Street, M Social offers
+Room Description:      Studio
+Booked:                No
+Services Added:        Breakfast, Lunch, Full Acces
+Check-in Date:         01/05/2024
+Check-out Date:        10/05/2024
+Adults:                3
+Children:              2
+Total Price with Tax:  $3249.72
+Booked Status:         Cancelled
+________________________________________________________________________________________________
+Booking Reference ID: 7863379
+Booking Details:
+Guest Name:            shaik asif
+Contact Details:       Mobile Number : 028u4545 | Mail Id : shaikAsif@434311
+Room Number:           604
+Hotel Name:            Rendezvous Hotel Christchurch
+Address:               166 Gloucester Street, Christchurch Central City, Christchurch 8011
+Room Description:      Presidential Suite
+Booked:                No
+Services Added:        Breakfast
+Check-in Date:         01/05/2024
+Check-out Date:        10/05/2024
+Adults:                3
+Children:              2
+Total Price with Tax:  $3809.70
+Booked Status:         Confirmed
+________________________________________________________________________________________________
+Booking Reference ID: 7863380
+Booking Details:
+Guest Name:            shaik  asif
+Contact Details:       Mobile Number : 02985458745 | Mail Id : shaik@311
+Room Number:           301
+Hotel Name:            The Hotel Britomart
+Address:               Ayckland central Business District
+Room Description:      Sharing Room
+Booked:                Yes
+Services Added:        Breakfast, Lunch
+Check-in Date:         01/05/2024
+Check-out Date:        10/05/2024
+Adults:                3
+Children:              2
+Total Price with Tax:  $3185.46
+Booked Status:         Confirmed
+________________________________________________________________________________________________
+Booking Reference ID: 7863381
+Booking Details:
+Guest Name:            shaik  asif
+Contact Details:       Mobile Number : 0279003311 | Mail Id : shaik@3311
+Room Number:           704
+Hotel Name:            Novotel Rotorua Lakeside
+Address:               Lake End Tutanekai Street, Rotorua 3010
+Room Description:      Suite with Spa Bath
+Booked:                No
+Services Added:        Breakfast, Private Spa Bath
+Check-in Date:         01/05/2024
+Check-out Date:        10/05/2024
+Adults:                3
+Children:              3
+Total Price with Tax:  $3984.12
+Booked Status:         Cancelled
+________________________________________________________________________________________________
+Booking Reference ID: 7863382
+Booking Details:
+Guest Name:            shaik asif
+Contact Details:       Mobile Number : 0279003311 | Mail Id : shaik@3311
+Room Number:           404
+Hotel Name:            M Social Auckland
+Address:               Iconic Quat Street, M Social offers
+Room Description:      Studio
+Booked:                Yes
+Services Added:        Breakfast, Full Acces, Insurance
+Check-in Date:         01/05/2024
+Check-out Date:        10/05/2024
+Adults:                3
+Children:              4
+Total Price with Tax:  $3350.70
+Booked Status:         Confirmed
+________________________________________________________________________________________________
+Booking Reference ID: 7863383
+Booking Details:
+Guest Name:            shaik asif
+Contact Details:       Mobile Number : 0279003311 | Mail Id : shaik@331
+Room Number:           226
+Hotel Name:            QT Wellington
+Address:               90 Cable Street, Te Aro, Wellington 6011
+Room Description:      Harbor View Room
+Booked:                Yes
+Services Added:        Breakfast, Private Balcony Access
+Check-in Date:         05/05/2024
+Check-out Date:        10/05/2024
+Adults:                4
+Children:              5
+Total Price with Tax:  $2346.00
+Booked Status:         Confirmed
+________________________________________________________________________________________________
+Booking Reference ID: 7863384
+Booking Details:
+Guest Name:            shaik asif
+Contact Details:       Mobile Number : 123456789 | Mail Id : shaik@3311
+Room Number:           804
+Hotel Name:            Millennium Hotel Queenstown
+Address:               32 Frankton Road, Queenstown 9300
+Room Description:      Standard Room
+Booked:                No
+Services Added:        Breakfast
+Check-in Date:         01/05/2024
+Check-out Date:        10/05/2024
+Adults:                3
+Children:              2
+Total Price with Tax:  $3029.40
+Booked Status:         Cancelled
+________________________________________________________________________________________________
+Booking Reference ID: 7863385
+Booking Details:
+Guest Name:            shaik asif
+Contact Details:       Mobile Number : 029003311 | Mail Id : shaikasif@3311
+Room Number:           403
+Hotel Name:            M Social Auckland
+Address:               Iconic Quat Street, M Social offers
+Room Description:      Family Room
+Booked:                Yes
+Services Added:        Breakfast, Insurances, Lunch, Extra Bed
+Check-in Date:         01/05/2024
+Check-out Date:        05/05/2024
+Adults:                3
+Children:              2
+Total Price with Tax:  $1289.28
+Booked Status:         Confirmed
+________________________________________________________________________________________________
+Booking Reference ID: 7863386
+Booking Details:
+Guest Name:            Shaik Asif Ahmed
+Contact Details:       Mobile Number : 0279003311 | Mail Id : hpp3982@autuni.ac.nz
+Room Number:           302
+Hotel Name:            The Hotel Britomart
+Address:               Ayckland central Business District
+Room Description:      Queen Size Room
+Booked:                Yes
+Services Added:        Breakfast, Lunch
+Check-in Date:         01/05/2024
+Check-out Date:        05/05/2024
+Adults:                3
+Children:              2
+Total Price with Tax:  $1489.20
+Booked Status:         Confirmed
+________________________________________________________________________________________________
+Booking Reference ID: 7863387
+Booking Details:
+Guest Name:            Bardly  Curtusew
+Contact Details:       Mobile Number : 123456789 | Mail Id : braddly@802
+Room Number:           802
+Hotel Name:            Holiday Inn Rotorua
+Address:               10 Tryon Street, Whakarewarewa, Rotorua 3010
+Room Description:      Deluxe Room
+Booked:                No
+Services Added:        Breakfast, Thermal Pool Access
+Check-in Date:         10/10/2024
+Check-out Date:        15/10/2024
+Adults:                5
+Children:              5
+Total Price with Tax:  $2034.90
+Booked Status:         Cancelled
+________________________________________________________________________________________________
+Booking Reference ID: 7863388
+Booking Details:
+Guest Name:            shaik asif ahmed Dexter Jones
+Contact Details:       Mobile Number : 0279003311 | Mail Id : Shaikasifahmed3131@gmail.com
+Room Number:           202
+Hotel Name:            Hilton Auckland
+Address:               147 Quay Street, Princes Wharf, Auckland CBD, Auckland 1010
+Room Description:      Single Room
+Booked:                Yes
+Services Added:        Breakfast, Lunch, Insurances
+Check-in Date:         10/05/2024
+Check-out Date:        11/05/2024
+Adults:                2
+Children:              2
+Total Price with Tax:  $308.04
+Booked Status:         Confirmed
