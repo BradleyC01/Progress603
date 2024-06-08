@@ -1,12 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package hotel_booking;
-/**
- *
- * @author shaikasif
- */
+
 import javax.swing.*;
 import java.awt.*;
 import java.io.File;
@@ -908,6 +901,15 @@ public class BookingFrame extends JFrame {
             displayBookingDetailsForCheck(booking);
         }
     });
+    
+    
+    JButton backButton = new JButton("Back");
+    backButton.setFont(new Font("Serif", Font.BOLD, 24));
+    backButton.setAlignmentX(Component.CENTER_ALIGNMENT);
+    inputPanel.add(backButton);
+
+    backButton.addActionListener(e -> checkBookingDialog.dispose());
+
 
     gbc = new GridBagConstraints();
     gbc.gridx = 0;
@@ -1030,3 +1032,4 @@ public class BookingFrame extends JFrame {
         });
     }
 }
+    

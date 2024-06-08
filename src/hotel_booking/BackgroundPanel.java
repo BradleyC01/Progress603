@@ -1,17 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package hotel_booking;
 
-import java.awt.Graphics;
-import java.awt.Image;
-import javax.swing.JPanel;
+import javax.swing.*;
+import java.awt.*;
 
-/**
- *
- * @author bradl
- */
 public class BackgroundPanel extends JPanel {
     private Image backgroundImage;
 
@@ -27,4 +18,3 @@ public class BackgroundPanel extends JPanel {
         }
     }
 }
-

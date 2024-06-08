@@ -5,10 +5,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-// abstarcts of booking frames implemted
 public class Booking implements BookingOperations {
 
-    private static int lastBookingId = FileIOUtility.loadLastBookingId(); // to get the last booking number & need to update file class
+    private static int lastBookingId = FileIOUtility.loadLastBookingId();
     private int bookingId;
     private Location location;
     private LocalDate checkInDate;

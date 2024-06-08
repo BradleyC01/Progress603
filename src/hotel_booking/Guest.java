@@ -1,6 +1,6 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+     * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+     * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package hotel_booking;
 
@@ -41,17 +41,13 @@ public class Guest {
         this.lastName = lastName;
     }
 
-    
-    public String getTelephone()
-    {
+    public String getTelephone() {
         return telephone;
     }
-    
-    public String getEmail()
-    {
+
+    public String getEmail() {
         return email;
     }
 
-   
-
 }
+//No change needed
