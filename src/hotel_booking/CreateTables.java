@@ -4,6 +4,10 @@
  */
 package hotel_booking;
 
+/**
+ *
+ * @author shaikasif
+ */
 import java.sql.Connection;
 import java.sql.SQLException;
 import java.sql.Statement;
@@ -163,7 +167,7 @@ public class CreateTables {
                     + "('Room 107: Deluxe King Room with Open Balcony', 35.00, 'Deluxe King Room with Open Balcony', 'src/images/Room.jpg'), "
                     + "('Room 108: Junior Suite with Balcony', 20.00, 'Junior Suite with Balcony', 'src/images/Room.jpg')";
             statement.executeUpdate(insertRoom);
-            
+
             // Insert data into Service table
             String insertService = "INSERT INTO Service (name, price) VALUES "
                     + "('WiFi', 0), "
@@ -185,3 +189,4 @@ public class CreateTables {
 }
 
 
+// created the main method and created a sample data , for tables we need.
